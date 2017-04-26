@@ -1,0 +1,58 @@
+svg {
+	border: 3px solid #eee;
+	display: block;
+	margin: 1em auto;
+}
+
+#allOptions {
+	width: 400px;
+	margin: 0 auto;
+}
+
+#allOptions div {
+	padding-bottom: 5px;
+}
+
+#setPointer h4, #setPointer select, #setPointer p, #setPointer button {
+	display: inline;
+}
+
+#setElem h4, #setElem p, #setElem select, #setElem button,
+#setElem form {
+	display: inline;
+}
+
+#deleteNode h4, #deleteNode p, #deleteNode select, #deleteNode button {
+	display: inline;
+}
+
+#misc h4, #misc button {
+	display: inline;
+}
+
+#misc h4{
+	margin-left: 2em;
+}
+
+#misc {
+	width: 250px;
+	margin: 0 auto;
+}
+
+.equal {
+        padding-left: 1em;
+        padding-right: 1em;
+}
+
+.lval {
+        width: 100px;
+}
+
+.rval {
+        width: 100px;
+}
+
+#deleteNode select {
+	margin-left: 8em;
+}
+
