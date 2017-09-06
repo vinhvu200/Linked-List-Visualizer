@@ -2,7 +2,10 @@
 This project was done with Professor Rika Yoshii for my Summer Scholar Project, sponsored by ViaSat. This web application was created to aid students in learning the Linked List data structure through visualization. 
 
 Check it out here: http://cis444.cs.csusm.edu/ryoshii/vu/
-One of the button is off centered on Mac so I'm sorry :( 
+
+Note:
+- One of the button is off centered on Mac so I'm sorry
+- Image sizing did not seem cooperate very well so I'm sorry again :(
 
 # Visualization
 ![Image 1](https://github.com/vinhvu200/Linked-List-Visualizer/raw/master/DemoImages/1.png "Image 1")
@@ -28,9 +31,6 @@ One of the button is off centered on Mac so I'm sorry :(
 
 - Bottom section represents all nodes not connected after the Front pointer
 - These nodes are lighter to show they are not part of the main linked list
-- First node: Node with element 14 pointing to junk
-- Second node: Node with element 30 pointing to NULL
-- Third node: Node with element 40 pointing to Node with element 20
 
 # Dangling Pointers
 ![Image 5](https://github.com/vinhvu200/Linked-List-Visualizer/raw/master/DemoImages/5.png "Image 5")
@@ -81,5 +81,4 @@ This section allows you to...
 
 - A node that can no longer be referenced causes a memory leak
 - In this case, the node with element 33 cannot be reached anymore; therefore, causing a memory leak
-
 
